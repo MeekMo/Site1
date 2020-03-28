@@ -92,3 +92,9 @@
 	color: white;
 }
 
+@media (max-width:770px),(orientation:potrait){
+	.data {
+		margin: 20px 0;
+		width: 100%;
+	}
+}
